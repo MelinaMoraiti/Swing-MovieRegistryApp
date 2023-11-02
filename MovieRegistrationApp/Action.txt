@@ -1,8 +1,0 @@
-1	Dune	2021	155	Denis Villeneuve	Action
-3	Spider-Man: No Way Home	2021	148	Jon Watts	Action
-7	Gladiator	2000	155	Ridley Scott	Action
-10	The Matrix	1999	136	Lana Wachowski	Action
-12	Escape from Alcatraz	1979	102	Don Siegel	Action
-4	Inception	2010	148	Christopher Nolan	Action
-7	Sicario	2015	121	Denis Villeneuve	Action
-10	The Batman	2022	166	Matt Reeves	Action
