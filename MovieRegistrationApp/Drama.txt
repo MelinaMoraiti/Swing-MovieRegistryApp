@@ -1,0 +1,11 @@
+2	Knives Out	2019	130	Rian Johnson	Drama
+4	Whiplash	2014	106	Damien Chazelle	Drama
+6	The prestige	2006	130	Christopher Nolan	Drama
+11	Don't Look Up	2021	138	Adam McKay	Drama
+1	Interstellar	2014	169	Christopher Nolan	Drama
+2	Arrival	2016	116	Denis Villeneuve	Drama
+3	Fight Club	1999	139	David Fincher	Drama
+5	Parasite	2019	132	Bong Joon Ho	Drama
+6	Prisoners	2013	153	Denis Villeneuve	Drama
+8	The Departed	2006	151	Martin Scorcsese	Drama
+9	CODA	2021	101	Sian Heder	Drama
